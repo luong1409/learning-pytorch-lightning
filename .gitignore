@@ -1,3 +1,7 @@
+# custom folders
+lightning_logs
+MNIST
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
